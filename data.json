@@ -1,0 +1,499 @@
+{
+  "providers": [
+    {
+      "uuid": "f77a0166-47e4-412c-9c20-09a59b83e914",
+      "name": "Kitten Bank",
+      "logo": "https://placekitten.com/125/70"
+    },
+    {
+      "uuid": "5b4906eb-5383-4f52-9874-673516843184",
+      "name": "🧸s-R-Us",
+      "logo": "https://placebear.com/125/70"
+    },
+    {
+      "uuid": "e1918431-0852-4f94-897e-971305687007",
+      "name": "Ipsum Inc.",
+      "logo": "https://picsum.photos/125/70"
+    },
+    {
+      "uuid": "41634947-11e8-4042-96f2-5678b5443564",
+      "name": "Anything Goes",
+      "logo": "http://placeimg.com/125/70/any"
+    },
+    {
+      "uuid": "c9986942-6429-457e-a7f5-276489510301",
+      "name": "Beardly",
+      "logo": "https://placebeard.it/125x70"
+    }
+  ],
+  "offers": [
+    {
+      "details": [
+        {
+          "title": "Monthly Fee",
+          "value": "$0",
+          "original-value": 0,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 4,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Annual Percentage Yield",
+          "value": "4.30%",
+          "original-value": 4.3,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 6,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Insurance",
+          "value": "fdic",
+          "original-value": "fdic",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 5,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Minimum Deposit",
+          "value": "$100",
+          "original-value": 10.0,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 2,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Marketing Details",
+          "value": "<ul>\n<li>Up to $2m in FDIC Insurance through the SoFi Insured Deposit Program. Earn up to $250 with qualifying direct deposit, terms apply.</li>\n</ul>",
+          "original-value": "<ul>\n<li>Up to $2m in FDIC Insurance through the SoFi Insured Deposit Program. Earn up to $250 with qualifying direct deposit, terms apply.</li>\n</ul>",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 1,
+          "contentType": "text/html"
+        }
+      ],
+      "url": "https://letmegooglethat.com/?q=Kitten+Savings+and+Checking",
+      "name": "Kitten Savings and Checking",
+      "provider": "f77a0166-47e4-412c-9c20-09a59b83e914",
+      "type": {
+        "title": "Savings Account",
+        "details": "A Savings Account allows you to deposit funds into a federally insured account that earns interest, but may have limits on withdrawals and transfers."
+      }
+    },
+    {
+      "details": [
+        {
+          "title": "Minimum Deposit",
+          "value": "$20",
+          "original-value": 20.00,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 2,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Annual Percentage Yield",
+          "value": "6.10%",
+          "original-value": 6.1,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 6,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Insurance",
+          "value": "fdic",
+          "original-value": "fdic",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 5,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Marketing Details",
+          "value": "<ul>\n<li>No Minimum Deposit.</li>\n<li>No Monthly Maintenance Fees.</li>\n<li> FDIC Insured.</li>\n</ul>",
+          "original-value": "<ul>\n<li>No Minimum Balance.</li>\n<li>No Monthly Maintenance Fees.</li>\n<li> FDIC Insured.</li>\n</ul>",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 1,
+          "contentType": "text/html"
+        }
+      ],
+      "url": "https://letmegooglethat.com/?q=12+Month+Online+CD",
+      "name": "12 Month Online CD",
+      "provider": "c9986942-6429-457e-a7f5-276489510301",
+      "type": {
+        "title": "CD (Certificate of Deposit)",
+        "details": "Certificate of Deposit (CD) is a type of savings account that earns interest on deposited funds for a fixed period of time ending with the “maturity date”. If funds are withdrawn prior to the maturity date penalties may be applied, including loss of interest."
+      }
+    },
+    {
+      "details": [
+        {
+          "title": "Annual Percentage Yield",
+          "value": "4.15%",
+          "original-value": 4.15,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 6,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Insurance",
+          "value": "fdic",
+          "original-value": "fdic",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 5,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Monthly Fee",
+          "value": "$0",
+          "original-value": 0,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 4,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Minimum Deposit",
+          "value": "$0.01",
+          "original-value": 0.01,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 2,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Marketing Details",
+          "value": "<ul>\n<li>No monthly maintenance fees</li>\n<li>No minimum balances to open</li>\n<li>Secure, 24/7 online access to your funds</li>\n<li>Member FDIC</li>\n</ul>",
+          "original-value": "<ul>\n<li>No monthly maintenance fees</li>\n<li>No minimum balances to open</li>\n<li>Secure, 24/7 online access to your funds</li>\n<li>Member FDIC</li>\n</ul>",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 1,
+          "contentType": "text/html"
+        }
+      ],
+      "url": "https://letmegooglethat.com/?q=Online+Savings+Account",
+      "name": "Online Savings Account",
+      "provider": "5b4906eb-5383-4f52-9874-673516843184",
+      "type": {
+        "title": "Savings Account",
+        "details": "A Savings Account allows you to deposit funds into a federally insured account that earns interest, but may have limits on withdrawals and transfers."
+      }
+    },
+    {
+      "details": [
+        {
+          "title": "Annual Percentage Yield",
+          "value": "4.50%",
+          "original-value": 4.5,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 6,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Monthly Fee",
+          "value": "$0",
+          "original-value": 0,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 4,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Minimum Deposit",
+          "value": "$0",
+          "original-value": 0,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 2,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Insurance",
+          "value": "fdic",
+          "original-value": "fdic",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 5,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Marketing Details",
+          "value": "<ul>\n<li>Open a high-yield online savings account and start saving today!</li>\n</ul>",
+          "original-value": "<ul>\n<li>Open a high-yield online savings account and start saving today!</li>\n</ul>",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 1,
+          "contentType": "text/html"
+        }
+      ],
+      "url": "https://letmegooglethat.com/?q=Online+Savings+Account",
+      "name": "Online Savings Account",
+      "provider": "e1918431-0852-4f94-897e-971305687007",
+      "type": {
+        "title": "Savings Account",
+        "details": "A Savings Account allows you to deposit funds into a federally insured account that earns interest, but may have limits on withdrawals and transfers."
+      }
+    },
+    {
+      "details": [
+        {
+          "title": "Annual Percentage Yield",
+          "value": "3.00%",
+          "original-value": 3,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 6,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Insurance",
+          "value": "ncua",
+          "original-value": "ncua",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 5,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Monthly Fee",
+          "value": "$0",
+          "original-value": 0,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 4,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Minimum Deposit",
+          "value": "$0",
+          "original-value": 0,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 2,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Marketing Details",
+          "value": "<ul>\n<li>$5 minimum to open</li>\n<li>No monthly maintenance fee</li>\n<li>Earn over 6x the national average</li>\n</ul>",
+          "original-value": "<ul>\n<li>$5 minimum to open</li>\n<li>No monthly maintenance fee</li>\n<li>Earn over 6x the national average</li>\n</ul>",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 1,
+          "contentType": "text/html"
+        }
+      ],
+      "url": "https://letmegooglethat.com/?q=Premium+Online+Savings",
+      "name": "Premium Online Savings",
+      "provider": "41634947-11e8-4042-96f2-5678b5443564",
+      "type": {
+        "title": "Savings Account",
+        "details": "A Savings Account allows you to deposit funds into a federally insured account that earns interest, but may have limits on withdrawals and transfers."
+      }
+    },
+    {
+      "details": [
+        {
+          "title": "Annual Percentage Yield",
+          "value": "4.30%",
+          "original-value": 4.3,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 6,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Insurance",
+          "value": "fdic",
+          "original-value": "fdic",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 5,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Monthly Fee",
+          "value": "$0",
+          "original-value": 0,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 4,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Minimum Deposit",
+          "value": "$0",
+          "original-value": 0,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 2,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Marketing Details",
+          "value": "<ul>\n<li>Up to $2m in FDIC Insurance through the SoFi Insured Deposit Program. Earn up to $250 with qualifying direct deposit, terms apply.</li>\n</ul>",
+          "original-value": "<ul>\n<li>Up to $2m in FDIC Insurance through the SoFi Insured Deposit Program. Earn up to $250 with qualifying direct deposit, terms apply.</li>\n</ul>",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 1,
+          "contentType": "text/html"
+        }
+      ],
+      "url": "https://letmegooglethat.com/?q=Kitten+CD",
+      "name": "CD (Certificate of Deposit)",
+      "provider": "f77a0266-47e4-412c-9c20-09a59b83e914",
+      "type": {
+        "title": "CD (Certificate of Deposit)",
+        "details": "Certificate of Deposit (CD) is a type of savings account that earns interest on deposited funds for a fixed period of time ending with the “maturity date”. If funds are withdrawn prior to the maturity date penalties may be applied, including loss of interest."
+      }
+    },
+    {
+      "details": [
+        {
+          "title": "Annual Percentage Yield",
+          "value": "4.30%",
+          "original-value": 4.3,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 6,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Insurance",
+          "value": "fdic",
+          "original-value": "fdic",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 5,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Monthly Fee",
+          "value": "$0",
+          "original-value": 0,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 4,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Minimum Deposit",
+          "value": "$50",
+          "original-value": 50.00,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 2,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Marketing Details",
+          "value": "<ul>\n<li>Up to $2m in FDIC Insurance through the SoFi Insured Deposit Program. Earn up to $250 with qualifying direct deposit, terms apply.</li>\n</ul>",
+          "original-value": "<ul>\n<li>Up to $2m in FDIC Insurance through the SoFi Insured Deposit Program. Earn up to $250 with qualifying direct deposit, terms apply.</li>\n</ul>",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 1,
+          "contentType": "text/html"
+        }
+      ],
+      "url": "https://letmegooglethat.com/?q=Kitten+CD",
+      "name": "CD (Certificate of Deposit)",
+      "provider": "f77a0266-47e4-412c-9c20-09a59b83e914",
+      "type": {
+        "title": "CD (Certificate of Deposit)",
+        "details": "Certificate of Deposit (CD) is a type of savings account that earns interest on deposited funds for a fixed period of time ending with the “maturity date”. If funds are withdrawn prior to the maturity date penalties may be applied, including loss of interest."
+      }
+    },
+    {
+      "details": [
+        {
+          "title": "Insurance",
+          "value": "fdic",
+          "original-value": "fdic",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 5,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Minimum Deposit",
+          "value": "$0.01",
+          "original-value": 0.01,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 2,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Annual Percentage Yield",
+          "value": "4.80%",
+          "original-value": 4.8,
+          "originalValueSchema": {
+            "type": "number"
+          },
+          "importance": 6,
+          "contentType": "text/plain"
+        },
+        {
+          "title": "Marketing Details",
+          "value": "<ul>\n<li>No Minimum Balance.</li>\n<li>No Monthly Maintenance Fees.</li>\n<li> FDIC Insured.</li>\n</ul>",
+          "original-value": "<ul>\n<li>No Minimum Balance.</li>\n<li>No Monthly Maintenance Fees.</li>\n<li> FDIC Insured.</li>\n</ul>",
+          "originalValueSchema": {
+            "type": "string"
+          },
+          "importance": 1,
+          "contentType": "text/html"
+        }
+      ],
+      "url": "https://letmegooglethat.com/?q=12+Month+Online+CD",
+      "name": "12 Month <strong>Online</strong> CD",
+      "provider": "c9986942-6429-457e-a7f5-276489510301",
+      "type": {
+        "title": "CD (Certificate of Deposit)",
+        "details": "Certificate of Deposit (CD) is a type of savings account that earns interest on deposited funds for a fixed period of time ending with the “maturity date”. If funds are withdrawn prior to the maturity date penalties may be applied, including loss of interest."
+      }
+    }
+  ]
+}
