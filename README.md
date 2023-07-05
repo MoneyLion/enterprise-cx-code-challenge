@@ -55,10 +55,10 @@ Scenario: Available offers shall have a call to action which opens the offer's U
 ```
 
 ```
-Scenario: Available offers shall be sorted by recommendation score by default
+Scenario: Available offers shall be sorted by Annual Percentage Yield by default
   Given a data set of available offers
   When I view the application
-  Then offers shown are sorted by recommendation score
+  Then offers shown are sorted by Annual Percentage Yield
 ```
 
 ```
