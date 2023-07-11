@@ -12,7 +12,7 @@ In this coding challenge, you will be asked to write a program that solves a spe
    * Use the [data set](./data.json) from an imaginary 3rd party provider
    * *Simulate* a data loading time of at least 2 seconds due to imaginary network latency
 6. Edit the readme of your application to replace only the intro and these instructions with:
-   * Instructions on running your code locally
+   * Instructions on running your code in development and production modes
    * Roughly how much time you decided to spend on this and why 
    * The technologies you chose and you thought process
    * Things you would like to do but didn't have time for                
