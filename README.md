@@ -62,7 +62,7 @@ Scenario: Available offers shall be sorted by Annual Percentage Yield by default
 ```
 
 ```
-Scenario: Available offers shall be sortable by apy, min deposit, and max deposit
+Scenario: Available offers shall be sortable by apy and min deposit
   Given a list of available offers
   When I changes the sort input to by <sort> <order>
   Then the available offers are sorted by <sort> <order>
@@ -70,7 +70,6 @@ Scenario: Available offers shall be sortable by apy, min deposit, and max deposi
 Examples:
   | sort  | apy        |
   | sort  | minDeposit |
-  | sort  | maxDeposit |
   | order | ascending  |
   | order | descending | 
 ```
