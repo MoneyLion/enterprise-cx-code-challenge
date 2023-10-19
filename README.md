@@ -10,7 +10,7 @@ In this coding challenge, you will be asked to write a program that solves a spe
 4. Push your local clone up to your private repository while preserving history
 5. Create an application that solves the problem and requirements listed below 
    * Use the [data set](./data.json) from an imaginary 3rd party provider
-   * *Simulate* a data loading time of at least 2 seconds due to imaginary network latency
+   * Create a simple API that *simulates* a data loading time of at least 2 seconds due to imaginary network latency
 6. Edit the readme of your application to replace only the intro and these instructions with:
    * Instructions on running your code in development and production modes
    * Roughly how much time you decided to spend on this and why 
