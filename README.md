@@ -6,7 +6,7 @@ In this coding challenge, you will be asked to write a program that solves a spe
 
 1. Clone this repository to your local machine
 2. Create a new **private** repository on GitHub so others can't copy your work
-4. Add the `jeromedane` as a viewer along with any additional people requested elsewhere
+4. Add the GitHub users mentioned when you got this code challenge as viewers
 4. Push your local clone up to your private repository while preserving history
 5. Create an application that solves the problem and requirements listed below 
    * Use the [data set](./data.json) from an imaginary 3rd party provider
